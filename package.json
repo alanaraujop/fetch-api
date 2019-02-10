@@ -1,0 +1,26 @@
+{
+  "name": "fetch-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "browser-sync start --server --files \"./*\""
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alantechsafe/fetch-api.git"
+  },
+  "keywords": [
+    "fetch-api",
+    "http",
+    "request"
+  ],
+  "author": "Alan Araujo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alantechsafe/fetch-api/issues"
+  },
+  "homepage": "https://github.com/alantechsafe/fetch-api#readme"
+}
